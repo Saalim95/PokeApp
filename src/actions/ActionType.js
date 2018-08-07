@@ -1,0 +1,9 @@
+export const ADD_COUNTER = 'ADD_COUNTER';
+export const REMOVE_COUNTER = 'REMOVE_COUNTER';
+export const CHANGE_DETAIL_ID = 'CHANGE_DETAIL_ID'
+export const SHOW_DETAIL = 'SHOW_DETAIL'
+export const HIDE_DETAIL = 'HIDE_DETAIL'
+export const CATCH_POKE = 'CATCH_POKE'
+export const SHOW_BACKPACK = 'SHOW_BACKPACK'
+export const HIDE_BACKPACK = 'HIDE_BACKPACK'
+export const ADD_POKELIST = 'ADD_POKELIST' 
