@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "async": "^2.6.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "memory-cache": "^0.2.0",
     "react": "^16.4.2",
     "react-bootstrap": "^0.32.1",
